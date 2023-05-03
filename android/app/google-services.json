@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239280890932",
+    "firebase_url": "https://fixy-98b19.firebaseio.com",
+    "project_id": "fixy-98b19",
+    "storage_bucket": "fixy-98b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239280890932:android:0872bbc0265e8c1a",
+        "android_client_info": {
+          "package_name": "fixy.com.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239280890932-9jthf156jcm0iqdct84ro8svtj0r8ai1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fixy.com.vn",
+            "certificate_hash": "925951945218ef1505d6339267760b7664db237c"
+          }
+        },
+        {
+          "client_id": "239280890932-fdo3isom0m62o3c2opq18g2ug5nboooj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwUa_eubUTemdTfmMEoA4dg71HDIy1fdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239280890932-fdo3isom0m62o3c2opq18g2ug5nboooj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
